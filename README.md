@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Joyce Chen</h1>
 <p align="center">
-<a href="https://github.com/Joyce750526/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Software+Developer;HTML%20|%20CSS%20|%20JavaScript%20|%20React%20Enthusiast;Aspiring+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Joyce750526/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Software+Developer;%20HTML%20|%20CSS%20|%20JavaScript%20|%20React%20Enthusiast;%20Love+Tech!%20;%20Aspiring+Developer%20&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
