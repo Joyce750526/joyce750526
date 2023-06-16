@@ -16,7 +16,7 @@
 
 <p align="center">
 <em>
-An aspiring Front-end Developer, <b>Joyce Chen</b>,  is a recent graduate of the <b> Full Stack Coding Bootcamp </b> at the University of New Hampshire, MA, with a passion for technology and a focus on Front-end Software Development. With a background in <b> interior design and architecture </b>, Joyce brings a unique blend of creativity and technical skills to her work. Eager to break into the tech industry, she is excited to apply her love for technology and explore her coding abilities to create exceptional user experiences as a front-end developer.
+An aspiring Front-end Developer, <b>Joyce Chen</b>,  is a recent graduate of the <b>Full Stack Coding Bootcamp</b> at <b>the University of New Hampshire</b>, MA, with a passion for technology and a focus on Front-end Software Development. With a background in <b>interior design and architecture</b>, Joyce brings a unique blend of creativity and technical skills to her work. Eager to break into the tech industry, she is excited to apply her love for technology and explore her coding abilities to create exceptional user experiences as a front-end developer.
   <br>
   <br> 
 <b><i>---I Always Believe That Hard Work Will Pay Off---</i></b>
